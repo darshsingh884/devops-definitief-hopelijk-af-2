@@ -1,0 +1,29 @@
+---
+name: about_yml
+full_name: .about.yml gem
+type: app
+owner_type: project
+status: active
+stage: alpha
+testable: true
+description: >
+  A gem for the .about.yml project metadata schema and tools
+impact: >
+  Making it easy for project leads to communicate details of their project to any audience by simply updating a file in the project repo.
+stack:
+- Ruby
+licenses:
+  .about.yml:
+    name: CC0
+    url: https://github.com/18F/about_yml/blob/master/LICENSE.md
+tasks: https://github.com/18F/about_yml/issues
+contact:
+- url: mailto:michael.bland@gsa.gov
+  text: Michael Bland
+team:
+- github: mtorres253
+  role: lead
+- github: mbland
+  role: author
+- github: arowla
+- github: ertzeid
