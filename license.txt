@@ -34,7 +34,7 @@ and
 
   WordPress is released under the GPL
   
-  <!--Demo on Github-->
+  <!--Demo on Gihub-->
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
